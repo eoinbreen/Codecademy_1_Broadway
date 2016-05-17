@@ -1,0 +1,36 @@
+ul {
+    list-style-type: none;
+    margin: 2;
+    padding: 2;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li {
+    float: left;
+  	display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+
+.jumbotron{
+ background: url(https://dl.dropboxusercontent.com/u/41547105/Photos/broadway.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+.button{
+  
+  width: 250px;
+  height: 50px;
+  background-color: #333;
+ 	text-align: center;  
+  font-size: 30px;  
+  line-height: 50px;
+  
+  
+}
